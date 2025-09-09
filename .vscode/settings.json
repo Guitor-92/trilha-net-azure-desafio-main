@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/e4f1898a-7f92-4752-92c2-4f4f68141c9d/resourceGroups/desafiovideo/providers/Microsoft.Web/sites/desafiovideo"
+}
