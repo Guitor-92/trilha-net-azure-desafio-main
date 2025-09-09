@@ -28,6 +28,8 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
+appsettings.Development.json
+appsettings.json
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
